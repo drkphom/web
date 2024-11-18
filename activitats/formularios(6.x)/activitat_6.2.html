@@ -7,6 +7,36 @@
 </head>
 <body>
     <a href="../-menu_activitats.html">Activitats</a>
-
+    <br>
+    <fieldset>
+        <!-- Titulo de Fieldset -->
+        <legend>Caracteristiques del altaveu</legend>
+      
+        <form>
+            <select name="Model">
+                <option value="" aria-label="Model" disabled selected>Quin model vols?</option>
+                <option value="0">SR1</option>
+                <option value="1">R4</option>
+                <option value="2">R5</option>
+            </select>
+            <br>
+            <label for="">
+                Potencia:
+                50 <input type="range" max="100" min="50"> 100
+            </label>
+            <br>
+            <label for="">
+                <input type="radio" value="" name="Bluetooth"> si
+                <input type="radio" name="Bluetooth"> no
+            </label>
+            <br>
+            <select name="Color">
+                <option value="" aria-label="Color" disabled selected>Quin color vols?</option>
+                <option value="0">vermell</option>
+                <option value="1">Blau</option>
+                <option value="2">groc</option>
+            </select>
+        </form>
+    </fieldset>
 </body>
 </html>
