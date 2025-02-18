@@ -1,0 +1,8 @@
+h1 {
+    --color-naranja: #D95B43;
+    color: var(--color-naranja);
+    border: 2px solid var(--color-naranja);
+   width: 8in;
+   height: 4in;
+   background-color: #D95B43;;
+}
