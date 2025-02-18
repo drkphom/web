@@ -1,0 +1,14 @@
+.titulo {
+    padding: var(--separacion);
+    text-transform: uppercase;
+    color: #993478;
+}
+
+.hipervinculo {
+    color: #236944;
+    text-transform: uppercase
+}
+
+.texto {
+    color: #987632;
+}
