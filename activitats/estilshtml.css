@@ -1,7 +1,12 @@
 .body {
-    background-color: black;
+    background-color: #000000;
     color: white;
+    font-size: xx-large;
 }
 a {
     color: red;
+}
+a:hover{
+    color: white;
+    font-style: italic;
 }
