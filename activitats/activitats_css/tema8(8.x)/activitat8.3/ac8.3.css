@@ -19,7 +19,7 @@
 .capitol {
     font-size: larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-transform: capitalize;
+    text-transform: uppercase;
 }
 .capitol:hover{
     color: red;
