@@ -1,0 +1,16 @@
+.italic {
+    font-style: italic;
+}
+.bold {
+    font-weight: bold;
+}
+.capitalize {
+    text-transform: uppercase;
+}
+.subrallar{
+    background-color: yellow;
+    font-style: italic;
+}
+body {
+    font-size: larger
+}
